@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------
+Region: us-west-1
+StackName: tCaT-qs-workshop-default-1dfdec092be9467c92dab2250af984a5
+*****************************************************************************
+ResourceStatusReason:  
+Parameter validation failed: parameter value kp-simplhug90app1-nvirgnia-20220128 for
+parameter name KeyPairName does not exist
+*****************************************************************************
+*****************************************************************************
+Events:  
+TimeStamp                         ResourceStatus      ResourceType                LogicalResourceId                                          ResourceStatusReason
+--------------------------------  ------------------  --------------------------  ---------------------------------------------------------  ------------------------------------------------------------------------------------------------------------------------------
+2022-01-27 22:34:02.951000+00:00  CREATE_FAILED       AWS::CloudFormation::Stack  tCaT-qs-workshop-default-1dfdec092be9467c92dab2250af984a5  Parameter validation failed: parameter value kp-simplhug90app1-nvirgnia-20220128 for parameter name KeyPairName does not exist
+2022-01-27 22:33:59.862000+00:00  CREATE_IN_PROGRESS  AWS::CloudFormation::Stack  tCaT-qs-workshop-default-1dfdec092be9467c92dab2250af984a5  User Initiated
+*****************************************************************************
+-----------------------------------------------------------------------------
+Tested on: Thursday, 27. January 2022 10:35PM
+-----------------------------------------------------------------------------
+
